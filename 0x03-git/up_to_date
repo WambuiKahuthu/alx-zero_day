@@ -1,0 +1,3 @@
+### The git command used to update the local repository with changes made remotely:
+
+git pull
